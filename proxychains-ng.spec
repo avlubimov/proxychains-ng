@@ -39,3 +39,6 @@ make %{?_smp_mflags}
 %{_libdir}/*
 
 %changelog
+* Sun Feb 19 2017 avl <avlubimov@gmail.com> 4.12-1
+- init rpm
+
