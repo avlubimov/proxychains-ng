@@ -6,7 +6,7 @@ Group:		Applications/Internet
 
 License:	GPLv2+
 URL:		https://github.com/rofl0r/proxychains-ng
-Source0:	https://github.com/avlubimov/proxychains-ng/archive/v4.12.tar.gz
+Source0:	%{name}-%{version}.tar.gz
 
 Provides:	proxychains = %{version}
 Obsoletes:	proxychains < %{version}
